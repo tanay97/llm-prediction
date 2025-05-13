@@ -64,6 +64,10 @@ The app will be available at [http://localhost:3000](http://localhost:3000) (or 
 - Adjust the temperature slider to see how predictions change.
 - The top predicted output and other likely completions will be displayed with their probabilities.
 
+Example:
+https://github.com/user-attachments/assets/ff64a064-a66b-47dc-a400-7f2970e82c86
+
+
 ---
 
 ## Notes
