@@ -1,10 +1,29 @@
-# Python-generated files
+# Python
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.py[cod]
+*.pyo
+.venv/
+.env
 
-# Virtual environments
-.venv
+# Node.js
+client/node_modules/
+client/.env
+
+# uv
+uv.lock
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Build artifacts
+client/build/
+client/dist/
+
+# Logs
+*.log
+
+# Misc
+*.swp
