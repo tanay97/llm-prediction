@@ -1,6 +1,6 @@
 # LLM Token Predictor
 
-This project provides a simple web interface to interactively explore token predictions and probabilities from an OpenAI language model. It consists of a FastAPI backend and a React frontend.
+After watching a [3Blue1Brown](https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown) video, I was inspired to play around with chat completition models. This is a basic app that gives some input on what your llm response is beyond the actual predictions. The math might not 100% correct but it's the right idea.
 
 ---
 
